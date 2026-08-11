@@ -1,6 +1,6 @@
 # VS Code + pip GPU 深度学习环境验证
 
-GitHub 仓库：<https://github.com/liurijin123/vscode-pip-gpu-deep-learning-environment>
+GitHub 仓库：https://github.com/liurijin123/vscode-pip-gpu-deep-learning-environment
 
 仓库状态：已于 2026-08-11 上传并验证 `main` 分支。
 
@@ -46,4 +46,4 @@ python -m pip config --site unset global.index-url
 
 示例版本核对于 2026-08-11。若 PyTorch 官方安装命令已经变化，应先更新 `requirements-torch-cu126.txt`，再运行测试。
 
-pip 镜像配置参考：[清华大学开源软件镜像站 PyPI 使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)。
+pip 镜像配置参考：清华大学开源软件镜像站 PyPI 使用帮助（https://mirrors.tuna.tsinghua.edu.cn/help/pypi/）。
